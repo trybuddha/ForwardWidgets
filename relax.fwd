@@ -1,0 +1,49 @@
+{
+  "title": "relax Widgets",
+  "description": "test ",
+  "icon": "https://github.com/huangxd-/ForwardWidgets/raw/main/icon.png",
+  "widgets": [
+    {
+      "id": "missav",
+      "title": "missav",
+      "author": "玛卡巴卡",
+      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/MissAV 3.1.js"
+    },
+  {
+      "id": "jable",
+      "title": "jb",
+      "author": "玛卡巴卡",
+      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/jable.js"
+    },
+  {
+      "id": "javday",
+      "title": "javday",
+      "author": "玛卡巴卡",
+      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javday.js"
+    },
+  {
+      "id": "javplayer",
+      "title": "jav",
+      "author": "玛卡巴卡",
+      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javplayer.js"
+    },
+  {
+      "id": "tikporn",
+      "title": "成人dy",
+      "author": "玛卡巴卡",
+      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/tikporn.js"
+    },
+  {
+      "id": "hanime1",
+      "title": "里番推荐",
+      "author": "玛卡巴卡",
+      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/hanime1.js"
+    },
+  {
+      "id": "51cg",
+      "title": "51吃瓜",
+      "author": "玛卡巴卡",
+      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/51吃瓜3.4.0.js"
+    }
+  ]
+}
