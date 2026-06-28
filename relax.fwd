@@ -11,53 +11,9 @@
       "version": "3.1",
       "author": "玛卡巴卡",
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/MissAV 3.1.js"
-    },
-   {
-      "id": "jable_int",
-      "title": "jb",
-      "description": "missav 模块接口",
-      "requiredVersion": "0.0.1",
-      "version": "2.5",
-      "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/jable.js"
-    },
-   {
-      "id": "javday_int",
-      "title": "javday",
-      "description": "missav 模块接口",
-      "requiredVersion": "0.0.1",
-      "version": "1.0",
-      "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javday.js"
-    },
-   {
-      "id": "gm.javplayer",
-      "title": "jav",
-      "description": "missav 模块接口",
-      "requiredVersion": "0.0.1",
-      "version": "1.0",
-      "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javplayer.js"
-    },
-   {
-      "id": "forward.tikporn",
-      "title": "成人dy",
-      "description": "missav 模块接口",
-      "requiredVersion": "0.0.1",
-      "version": "1.1",
-      " author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/tikporn.js"
-    },
-   {
-      "id": "hanime1Tao",
-      "title": "里番推荐",
-      "description": "missav 模块接口",
-      "requiredVersion": "0.0.1",
-      "version": "1.0",
-      "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/hanime1.js"
-
     }
+  
+  
  
   ]
 }
