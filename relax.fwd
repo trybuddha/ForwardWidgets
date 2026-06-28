@@ -14,21 +14,13 @@
     },
    {
       "id": "jable_int",
-      "title": "Jable ",
+      "title": "Jabletv ",
       "description": "jable 模块接口",
       "requiredVersion": "0.0.1",
       "version": "2.5",
       "author": "玛卡巴卡",
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/jable.js" 
-    },
-   {
-      "id": "forward.tikporn",
-      "title": "Tik.Porn",
-      "description": "tk模块接口",
-      "requiredVersion": "0.0.1",
-      "version": "1.0",
-      "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/tikporn.js"
-   }
+    }
+   
   ]
 }
