@@ -4,7 +4,7 @@
   "icon": "https://github.com/huangxd-/ForwardWidgets/raw/main/icon.png",
   "widgets": [
    {
-      "id": "missav",
+      "id": "Missav",
       "title": "missav",
       "description": "missav 模块接口",
       "requiredVersion": "0.0.1",
@@ -13,7 +13,7 @@
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/MissAV 3.1.js"
     },
    {
-      "id": "jable",
+      "id": "jable_int",
       "title": "jb",
       "description": "missav 模块接口",
       "requiredVersion": "0.0.1",
@@ -22,7 +22,7 @@
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/jable.js"
     },
    {
-      "id": "javday",
+      "id": "javday_int",
       "title": "javday",
       "description": "missav 模块接口",
       "requiredVersion": "0.0.1",
@@ -31,7 +31,7 @@
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javday.js"
     },
    {
-      "id": "javplayer",
+      "id": "gm.javplayer",
       "title": "jav",
       "description": "missav 模块接口",
       "requiredVersion": "0.0.1",
@@ -40,7 +40,7 @@
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javplayer.js"
     },
    {
-      "id": "tikporn",
+      "id": "forward.tikporn",
       "title": "成人dy",
       "description": "missav 模块接口",
       "requiredVersion": "0.0.1",
@@ -49,7 +49,7 @@
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/tikporn.js"
     },
    {
-      "id": "hanime1",
+      "id": "hanime1Tao",
       "title": "里番推荐",
       "description": "missav 模块接口",
       "requiredVersion": "0.0.1",
