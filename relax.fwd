@@ -3,47 +3,61 @@
   "description": "test ",
   "icon": "https://github.com/huangxd-/ForwardWidgets/raw/main/icon.png",
   "widgets": [
-    {
+   {
       "id": "missav",
       "title": "missav",
+      "description": "missav 模块接口",
+      "requiredVersion": "0.0.1",
+      "version": "3.1",
       "author": "玛卡巴卡",
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/MissAV 3.1.js"
     },
-  {
+   {
       "id": "jable",
       "title": "jb",
+      "description": "missav 模块接口",
+      "requiredVersion": "0.0.1",
+      "version": "2.5",
       "author": "玛卡巴卡",
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/jable.js"
     },
-  {
+   {
       "id": "javday",
       "title": "javday",
+      "description": "missav 模块接口",
+      "requiredVersion": "0.0.1",
+      "version": "1.0",
       "author": "玛卡巴卡",
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javday.js"
     },
-  {
+   {
       "id": "javplayer",
       "title": "jav",
+      "description": "missav 模块接口",
+      "requiredVersion": "0.0.1",
+      "version": "1.0",
       "author": "玛卡巴卡",
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javplayer.js"
     },
-  {
+   {
       "id": "tikporn",
       "title": "成人dy",
-      "author": "玛卡巴卡",
+      "description": "missav 模块接口",
+      "requiredVersion": "0.0.1",
+      "version": "1.1",
+      " author": "玛卡巴卡",
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/tikporn.js"
     },
-  {
+   {
       "id": "hanime1",
       "title": "里番推荐",
+      "description": "missav 模块接口",
+      "requiredVersion": "0.0.1",
+      "version": "1.0",
       "author": "玛卡巴卡",
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/hanime1.js"
-    },
-  {
-      "id": "51cg",
-      "title": "51吃瓜",
-      "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/51吃瓜3.4.0.js"
+
     }
+ 
   ]
 }
