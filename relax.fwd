@@ -29,6 +29,24 @@
       "version": "1.0",
       "author": "玛卡巴卡",
       "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javday.js"
+   },
+   {
+      "id": "gm.javplayer ",
+      "title": "javplayer",
+      "description": "javplayer模块接口",
+      "requiredVersion": "0.0.1",
+      "version": "1.0",
+      "author": "玛卡巴卡",
+      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/javplayer.js"
+   },
+   {
+      "id": "forward.tikporn",
+      "title": "Tik.Porn",
+      "description": "tk模块接口",
+      "requiredVersion": "0.0.1",
+      "version": "1.0",
+      "author": "玛卡巴卡",
+      "url": "https://raw.githubusercontent.com/trybuddha/ForwardWidgets/refs/heads/main/widgets/tikporn.js"
    }
   ]
 }
