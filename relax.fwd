@@ -5,7 +5,7 @@
   "widgets": [
    {
       "id": "Missav",
-      "title": "missav",
+      "title": "Missav_ovo",
       "description": "missav 模块接口",
       "requiredVersion": "0.0.1",
       "version": "3.1",
@@ -14,7 +14,7 @@
     },
    {
       "id": "jable_int",
-      "title": "Jabletv ",
+      "title": "Jable",
       "description": "jable 模块接口",
       "requiredVersion": "0.0.1",
       "version": "2.5",
@@ -23,7 +23,7 @@
     },
    {
       "id": "javday_int",
-      "title": "javday",
+      "title": "JAVDay",
       "description": "javday 模块接口",
       "requiredVersion": "0.0.1",
       "version": "1.0",
@@ -32,7 +32,7 @@
    },
    {
       "id": "gm.javplayer ",
-      "title": "javplayer",
+      "title": "JavPlayer",
       "description": "javplayer模块接口",
       "requiredVersion": "0.0.1",
       "version": "1.0",
