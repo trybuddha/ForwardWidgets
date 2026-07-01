@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "3.1",
       "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybda/Forward/refs/heads/test/widgets/MissAV 3.1.js"
+      "url": "https://raw.githubusercontent.com/trybda/ForwardWidgets/refs/heads/main/widgets/MissAV 3.1.js"
     },
    {
       "id": "jable_int",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "2.5",
       "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybda/Forward/refs/heads/test/widgets/jable.js" 
+      "url": "https://raw.githubusercontent.com/trybda/ForwardWidgets/refs/heads/main/widgets/jable.js" 
     },
    {
       "id": "javday_int",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0",
       "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybda/Forward/refs/heads/main/widgets/adult/javday.js"
+      "url": "https://raw.githubusercontent.com/trybda/ForwardWidgets/refs/heads/main/widgets/javday.js"
    },
    {
       "id": "gm.javplayer ",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0",
       "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybda/Forward/refs/heads/main/widgets/adult/javplayer.js"
+      "url": "https://raw.githubusercontent.com/trybda/ForwardWidgets/refs/heads/main/widgets/javplayer.js"
    },
    {
       "id": "forward.tikporn",
@@ -46,7 +46,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0",
       "author": "玛卡巴卡",
-      "url": "https://raw.githubusercontent.com/trybda/Forward/refs/heads/main/widgets/tikporn.js"
+      "url": "https://raw.githubusercontent.com/trybda/ForwardWidgets/refs/heads/main/widgets/tikporn.js"
    }
   ]
 }
