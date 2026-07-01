@@ -5,7 +5,7 @@
   "widgets": [
    {
       "id": "Missav",
-      "title": "Missav_ovo",
+      "title": "MissAV_ovo",
       "description": "missav 模块接口",
       "requiredVersion": "0.0.1",
       "version": "3.1",
